@@ -1,4 +1,4 @@
-Setup in haddop :
+Setup in hadoop :
 ````
 hdfs dfs -mkdir /input
 hdfs dfs -mkdir /lookup
